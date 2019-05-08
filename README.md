@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ADHS_2018 
 
 The files here are to reproduce the examples in the ADHS 2018 paper, "Learning and Verification of Feedback Control
@@ -48,3 +49,7 @@ You can chose what option you want by just running it first as :
 > ./run_file_1
 
 For example 1, and so on.
+=======
+# Verification Guided Training
+The code here implements verification guided training scheme for neural network plant models. The verification scheme uses SHERLOCK to implement range propagation idea, and Tensorflow to train the Neural Network.
+>>>>>>> 2012c5a5da6554e9f0128d96040ba85cc82151e3
