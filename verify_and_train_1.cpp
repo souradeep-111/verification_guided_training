@@ -19,7 +19,7 @@ int main(int argc, char ** argv)
     auto hidden_nodes = 25;
     auto no_of_initial_points = 50;
     auto no_of_steps = 30;
-    auto no_of_unrollings = 10;
+    auto no_of_unrollings = 5;
     auto acc_in_reach_sets = 1;
     auto no_of_extra_directions = 2;
     bool only_simulate = false;
